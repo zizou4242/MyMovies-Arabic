@@ -1,0 +1,8 @@
+{
+  "name": "MyMovies-Arabic",
+  "description": "مستودع عربي مستقل لإضافات Cloudstream",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/USERNAME/MyMovies-Arabic/builds/plugins.json"
+  ]
+}
